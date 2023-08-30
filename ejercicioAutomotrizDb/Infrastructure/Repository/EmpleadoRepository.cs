@@ -9,25 +9,25 @@ using Core.Entitites;
 
 namespace Infrastructure.Repository;
 
-public class ClienteRepository : GenericRepo<Cliente>, ICliente
+public class EmpleadoRepository : GenericRepo<Empleado>, IEmpleado
 {
     private readonly TallerContext _context;
-    public ClienteRepository(TallerContext context) : base(context)
+    public EmpleadoRepository(TallerContext context) : base(context)
     {
         _context = context;
     }
 
-    public override async Task<IEnumerable<Cliente>> GetAllAsync()
+    public override async Task<IEnumerable<Empleado>> GetAllAsync()
     {
-        return await _context.Clientes
-            .Include(p => p.Vehiculos)
+        return await _context.Empleados
+            .Include(p => p.Clientes)
             .ToListAsync();
     }
 
-    public override async Task<Cliente> GetByIdAsync(int id)
+    public override async Task<Empleado> GetByIdAsync(int id)
     {
-        return await _context.Clientes
-        .Include(p => p.Vehiculos)
+        return await _context.Empleados
+        .Include(p => p.Clientes)
         .FirstOrDefaultAsync(p => p.Id == id);
     } 
-}
+} 

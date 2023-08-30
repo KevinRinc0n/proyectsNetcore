@@ -9,6 +9,7 @@ public class UnitOfWork : IUnitOfWork
     private readonly TallerContext context;
     private VehiculoRepository _vehiculos;
     private ClienteRepository _clientes;
+    private EmpleadoRepository _empleados;
 
 
     public UnitOfWork(TallerContext _context)
@@ -34,6 +35,17 @@ public class UnitOfWork : IUnitOfWork
                 _clientes = new ClienteRepository(context);
             }
             return _clientes;
+        }
+    }
+
+    public IEmpleado Empleados
+    {
+        get{
+            if(_empleados == null)
+            {
+                _empleados = new EmpleadoRepository(context);
+            }
+            return _empleados;
         }
     }
 
