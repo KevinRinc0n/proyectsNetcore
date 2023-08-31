@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\APITienda\\APITienda.csproj": {}
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\APITienda\\APITienda.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\APITienda\\APITienda.csproj": {
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\APITienda\\APITienda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\APITienda\\APITienda.csproj",
+        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\APITienda\\APITienda.csproj",
         "projectName": "APITienda",
-        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\APITienda\\APITienda.csproj",
+        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\APITienda\\APITienda.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\APITienda\\obj\\",
+        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\APITienda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj": {
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\obj\\",
+        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -163,8 +163,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj"
+              "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj": {
+                "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj"
               }
             }
           }

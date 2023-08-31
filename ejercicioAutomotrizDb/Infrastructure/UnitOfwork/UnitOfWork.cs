@@ -1,3 +1,4 @@
+using Core.Entitites;
 using Core.Interfaces;
 using Infrastructure.Data;
 using Infrastructure.Repository;
@@ -10,6 +11,9 @@ public class UnitOfWork : IUnitOfWork
     private VehiculoRepository _vehiculos;
     private ClienteRepository _clientes;
     private EmpleadoRepository _empleados;
+    private TipoPersonaRepository _tipoPersonas;
+    private FacturaRepository _facturas;
+    private DetalleAprobacionRepository _detallesAprobaciones;
 
 
     public UnitOfWork(TallerContext _context)
@@ -46,6 +50,39 @@ public class UnitOfWork : IUnitOfWork
                 _empleados = new EmpleadoRepository(context);
             }
             return _empleados;
+        }
+    }
+
+    public ITipoPersona TipoPersonas
+    {
+        get{
+            if(_tipoPersonas == null)
+            {
+                _tipoPersonas = new TipoPersonaRepository(context);
+            }
+            return _tipoPersonas;
+        }
+    }
+
+    public IFactura Facturas
+    {
+        get{
+            if(_facturas == null)
+            {
+                _facturas = new FacturaRepository(context);
+            }
+            return _facturas;
+        }
+    }
+
+    public IDetalleAprobacion DetallesAprobaciones
+    {
+        get{
+            if(_detallesAprobaciones == null)
+            {
+                _detallesAprobaciones = new DetalleAprobacionRepository(context);
+            }
+            return _detallesAprobaciones;
         }
     }
 

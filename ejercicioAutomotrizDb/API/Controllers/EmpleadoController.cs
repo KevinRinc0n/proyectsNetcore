@@ -23,7 +23,7 @@ public class EmpleadoController : BaseApiController
 
     public async Task<ActionResult<IEnumerable<EmpleadoDto>>> Get()
     {
-        var empleados = await unitofwork.Empleados.GetAllAsync();
+        var empleados = await unitofwork.Empleados.GetAllAsync(); 
         return mapper.Map<List<EmpleadoDto>>(empleados);
     }
     

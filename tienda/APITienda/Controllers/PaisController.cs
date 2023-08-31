@@ -3,7 +3,7 @@ using AutoMapper;
 using Core.Interfaces;
 using APITienda.Dtos;
 using Microsoft.AspNetCore.Mvc;
-
+using API.Dtos;
 
 namespace APITienda.Controllers;
 
@@ -21,10 +21,10 @@ public class PaisController : BaseApiController
     [HttpGet]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<ActionResult<IEnumerable<PaisDto>>> Get()
+    public async Task<ActionResult<IEnumerable<PaisesDto>>> Get()
     {
         var paises = await unitofwork.Paises.GetAllAsync();
-        return mapper.Map<List<PaisDto>>(paises);
+        return mapper.Map<List<PaisesDto>>(paises);
     }
 
     [HttpGet("{id}")]
@@ -40,7 +40,7 @@ public class PaisController : BaseApiController
     [HttpPost]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<ActionResult<Pais>> Post(PaisDto paisDto)
+    public async Task<ActionResult<Pais>> Post(PaisesDto paisDto)
     {
         var pais = this.mapper.Map<Pais>(paisDto);
         this.unitofwork.Paises.Add(pais);
@@ -57,7 +57,7 @@ public class PaisController : BaseApiController
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
 
-    public async Task<ActionResult<PaisDto>> Put (int id, [FromBody]PaisDto paisDto)
+    public async Task<ActionResult<PaisesDto>> Put (int id, [FromBody]PaisesDto paisDto)
     {
         if(paisDto == null)
             return NotFound();

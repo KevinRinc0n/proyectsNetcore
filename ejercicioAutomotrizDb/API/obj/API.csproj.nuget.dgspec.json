@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\API.csproj": {}
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\API.csproj": {
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\APT01-48\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\obj\\",
+        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APT01-48\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -88,17 +88,17 @@
         }
       }
     },
-    "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj": {
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\APT01-48\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\obj\\",
+        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APT01-48\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -141,17 +141,17 @@
         }
       }
     },
-    "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\APT01-48\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\obj\\",
+        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APT01-48\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -163,8 +163,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj"
+              "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj": {
+                "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj"
               }
             }
           }

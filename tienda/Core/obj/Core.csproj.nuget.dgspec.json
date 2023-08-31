@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj": {}
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj": {
+    "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectosNetcore\\tienda\\Core\\obj\\",
+        "outputPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\tienda\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"

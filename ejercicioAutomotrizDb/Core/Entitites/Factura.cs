@@ -7,7 +7,7 @@ namespace Core.Entitites;
 
 public class Factura : DetalleFactura
 {
-    public string NumeroOrden { get; set; }
-    public string NumeroFactura { get; set; }
+    public int NumeroOrden { get; set; }
+    public int NumeroFactura { get; set; }
     public int IdCliente { get; set; }
 }

@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;
 
-public class ClienteController : BaseApiController
+public class ClienteController : BaseApiController 
 {
     private IUnitOfWork unitofwork;
     private readonly IMapper mapper;

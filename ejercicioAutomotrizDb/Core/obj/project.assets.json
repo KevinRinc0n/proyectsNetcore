@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\APT01-48\\.nuget\\packages\\": {}
+    "C:\\Users\\kevin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj",
+      "projectUniqueName": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\APT01-48\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\APT01-48\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\obj\\",
+      "projectPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\kevin\\Desktop\\proyectsNetcore\\ejercicioAutomotrizDb\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\APT01-48\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using APITienda.Dtos;
 using AutoMapper;
 using Core.Entities;
+using API.Dtos;
 
 namespace APITienda.Profiles;
 
@@ -14,6 +15,8 @@ public class MappingProfiles : Profile
     {
         CreateMap<Pais, PaisDto>().ReverseMap();
 
-        CreateMap<Pais, PaisDto>().ReverseMap();
+        CreateMap<Pais, PaisesDto>().ReverseMap();
+
+        CreateMap<Estado, EstadoDto>().ReverseMap();
     }
 }

@@ -56,3 +56,14 @@ C:\Users\APT01-48\Desktop\proyectosNetcore\tienda\Core\obj\Debug\net7.0\Core.dll
 C:\Users\APT01-48\Desktop\proyectosNetcore\tienda\Core\obj\Debug\net7.0\refint\Core.dll
 C:\Users\APT01-48\Desktop\proyectosNetcore\tienda\Core\obj\Debug\net7.0\Core.pdb
 C:\Users\APT01-48\Desktop\proyectosNetcore\tienda\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\bin\Debug\net7.0\Core.dll
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\obj\Debug\net7.0\Core.dll
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\kevin\Desktop\proyectsNetcore\tienda\Core\obj\Debug\net7.0\ref\Core.dll
